@@ -1,1 +1,6 @@
 This is an example file for git
+Add blanks
+
+
+
+and the end
